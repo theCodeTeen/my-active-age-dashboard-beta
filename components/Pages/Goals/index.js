@@ -16,7 +16,7 @@ const Goals = ()=>{
                 </div>
             </div>
             <div className={styles["right"]}>
-                Will implement this after you hire me!
+                Will implement this after you hire me!😉 <br/>
                 [Not responsive yet, please view in a device near 1280px x 800px]
             </div>
         </div>
