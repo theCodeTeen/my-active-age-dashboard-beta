@@ -1,0 +1,36 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+.btn_container{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.togglebtn{
+    width: 270px;
+    height: 60px;
+}
+.stats_container{
+    width: 100%;
+    display: flex;
+}
+.left{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.circlestats{
+    width: 500px;
+    height: 500px;
+}
+.right{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 200px ;
+}
